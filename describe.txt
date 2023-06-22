@@ -1,0 +1,35 @@
+#Dies ist ein Programm welches in seiner Finalen Funktion ein Virtueller Chemiebaukasten
+#darstellen soll
+#############
+#Um die umsetzung zunächst nicht zu komplex zu gestaltet wird sich in den ersten Versionen
+#des Baukastens auf Stoffe anstatt auf Reale Elemente beschränkt
+#
+############
+
+#Eigenschaften der Stoffe und später der Elemente aus dem Periodensystem
+
+    #Aggregatzustand
+    #Schmelzpunkt
+    #Siedepunkt
+    #Dichte
+    #Elektrische Leitfähigkeit
+    #Magnetische Eigenschaften
+    #Radioaktivität
+
+##########
+
+#Das Programm soll in seiner Grundfunktionalität zunächst eine Raum Temperatur anzeigen
+#diese soll veränderbar sein
+#Es soll die möglichkeit vorhanden sein einen Stoff zu erwärmen oder abzukühlen und die daraus resultierenden
+#eigenschaften sollen angezeigt werden (z.b. Eis schmilz)
+
+##########
+
+#Die Umsetzung dieses Projekts soll in der Programmiersprache Python erfolgen und es wird
+#ein Objektorientierter Ansatzu gewählt um die hierzu vorhanden Kenntnisse zu vertiefen und
+#zu verfestigen
+
+
+#########
+
+#Das Chemie Hintergrundwissen zu diesem Projekt soll aus Wikipedia und aus Chat GPT bzw OpenAI stammen
