@@ -26,7 +26,7 @@ class Element(Ambient):
         temp_delta = int(input("Bitte geben sie die gewünschte temperaturänderung an: "))
         self.temp = self.temp + temp_delta
         print(f"Temperatur auf {self.temp}°C geändert")
-        if self.temp 
+        if self.temp <
 
 
 wasser = Element(temp=22,humidity=20,siedepunkt=10)
