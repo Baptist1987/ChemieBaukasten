@@ -1,5 +1,3 @@
-
-
 class Ambient():
     def __init__(self, temp=None, humidity=None, roomvol=None):
         self.temp = temp
